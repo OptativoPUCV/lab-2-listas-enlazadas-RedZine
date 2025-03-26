@@ -10,3 +10,9 @@ mi., 26 de mar. de 2025  8:39:21:
  tests:  1|5
 total_score: 10/70
 bf3800a
+mi., 26 de mar. de 2025  8:49:03: 
+ list.c | 3 +++
+ 1 file changed, 3 insertions(+)
+ tests:  2|5
+total_score: 15/70
+7b84379
